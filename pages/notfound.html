@@ -9,10 +9,11 @@
 		integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
 </head>
 
-<body>
+<body data-bs-theme="dark">
+	<!-- Navbar -->
 	<nav class="navbar navbar-expand-lg bg-body-tertiary">
 		<div class="container-fluid">
-			<a class="navbar-brand" href="/index.html">Travelblog</a>
+			<a class="navbar-brand" href="../index.html">Travelblog</a>
 			<button class="navbar-toggler" type="button" data-bs-toggle="collapse"
 				data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
 				aria-label="Toggle navigation">
@@ -21,10 +22,10 @@
 			<div class="collapse navbar-collapse" id="navbarSupportedContent">
 				<ul class="navbar-nav me-auto mb-2 mb-lg-0">
 					<li class="nav-item">
-						<a class="nav-link active" href="/index.html">Home</a>
+						<a class="nav-link active" aria-current="page" href="./index.html">Home</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link" href="/pages/blog.html">Blog</a>
+						<a class="nav-link" href="./pages/blog.html">Blog</a>
 					</li>
 					<li class="nav-item dropdown">
 						<a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
@@ -33,33 +34,45 @@
 						</a>
 						<ul class="dropdown-menu">
 							<li class="dropdown-header">Europa</li>
-							<li><a class="dropdown-item" href="/pages/blog/finland.html">Finnland</a></li>
-							<li><a class="dropdown-item" href="/pages/blog/norway.html">Norwegen</a></li>
-							<li><a class="dropdown-item" href="/pages/notfound.html">Deutschland</a></li>
-							<li><a class="dropdown-item" href="/pages/notfound.html">Österreich</a></li>
+							<li><a class="dropdown-item" href="./pages/blog/finland.html">Finnland</a></li>
+							<li><a class="dropdown-item" href="./pages/blog/norway.html">Norwegen</a></li>
+							<li><a class="dropdown-item" href="./pages/notfound.html">Deutschland</a></li>
+							<li><a class="dropdown-item" href="./pages/notfound.html">Österreich</a></li>
 							<li>
 								<hr class="dropdown-divider">
 							</li>
 							<li class="dropdown-header">Nordamerika</li>
-							<li><a class="dropdown-item" href="/pages/notfound.html">Kanada</a></li>
-							<li><a class="dropdown-item" href="/pages/notfound.html">USA</a></li>
+							<li><a class="dropdown-item" href="./pages/notfound.html">Kanada</a></li>
+							<li><a class="dropdown-item" href="./pages/notfound.html">USA</a></li>
 						</ul>
 					</li>
 				</ul>
 				<form class="d-flex" role="search">
-					<input class="form-control me-2" type="search" placeholder="Ein Land oder eine Region..." aria-label="Search">
+					<input class="form-control me-2" type="search" placeholder="Suchbegriff" aria-label="Search">
 					<button class="btn btn-outline-success" type="submit">Suchen</button>
 				</form>
 			</div>
 		</div>
 	</nav>
 
-    <div class="card" style="width: 18rem; margin:auto;">
-		<img src="https://http.cat/404" class="card-img-top" alt="...">
+	<div class="card" style="width: 18rem; margin:auto;">
+		<img src="https://http.cat/404" class="card-img-top" alt="404 Cat">
 		<div class="card-body">
-		  <p class="card-text">Es scheint so, als gäbe es diese Seite hier nicht.</p>
+			<p class="card-text">Es scheint so, als gäbe es diese Seite hier nicht.</p>
 		</div>
-	  </div>
+	</div>
+
+	<nav class="navbar bottom bg-body-tertiary">
+		<div class="container-fluid">
+			<span class="navbar-text">
+				Travelblog, Web Engineering 2024
+			</span>
+			<div class="navbar-nav">
+				<a class="nav-link" href="/pages/contact.html">Kontakt</a>
+				<a class="nav-link" href="/pages/about.html">Über Uns</a>
+			</div>
+		</div>
+	</nav>
 
 	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
 		integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
