@@ -11,81 +11,81 @@
 
 	<style>
 		.flex-container {
- 	 		display: flex;
- 	 		flex-wrap: wrap;
+			display: flex;
+			flex-wrap: wrap;
 		}
-		
-		.flex-container > div {
-  	 		margin: 10px;
+
+		.flex-container>div {
+			margin: 10px;
 			flex: 1 1 calc(50% - 20px);
 		}
 
-		.comment-field{
+		.comment-field {
 			margin: 10px;
 		}
 
-		.button-field{
+		.button-field {
 			margin: 10px;
 		}
 
 		.form-control {
-            width: 100%; 
-        }
-
+			width: 100%;
+		}
 	</style>
 </head>
 
 <body data-bs-theme="dark">
 
 	<header>
-
 		<!-- Navbar -->
 		<nav>
 			<div id="navbar-container">
 			</div>
 		</nav>
-	
+
 	</header>
 
 	<main>
 		<form class="comment-field">
-	
+
 			<div class="mb-3">
 				<label for="inputComment" class="form-label">Kommentar</label>
-				<textarea type="text" class="form-control" id="inputComment" rows="5" placeholder="" ></textarea>
+				<textarea type="text" class="form-control" id="inputComment" rows="5" placeholder=""></textarea>
 			</div>
-	
+
 		</form>
 
 		<form class="flex-container">
 			<div>
 				<label for="inputEmail" class="form-label">E-Mail</label>
-				<input type="email" class="form-control" id="inputEmail" >
+				<input type="email" class="form-control" id="inputEmail">
 			</div>
-	
+
 			<div>
 				<label for="inputName" class="form-label">Name</label>
-				<input type="text" class="form-control" id="inputName" placeholder="" >
+				<input type="text" class="form-control" id="inputName" placeholder="">
 			</div>
 		</form>
 
 		<form class="button-field">
 			<div>
-				<button type="submit" class="btn btn-primary" >Absenden </button>
+				<button type="submit" class="btn btn-primary">Absenden </button>
 			</div>
 		</form>
-		
-		<!-- Footer -->
-		<div id="footer-container">
-		</div>
-	
+
+		<footer>
+			<!-- Footer -->
+			<div id="footer-container">
+			</div>
+		</footer>
+
 		<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
 			integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
 			crossorigin="anonymous"></script>
-			<script src="../scripts/pages.js"></script>
+		<script src="../scripts/pages.js"></script>
 
 	</main>
-	
+
 </body>
 
 </html>
