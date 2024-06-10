@@ -1,0 +1,72 @@
+{
+    "carouselEntries": [
+        {
+            "headerImage": "/resources/pictures/weihnachtsmann_dorf.webp",
+            "title": "Weihnachtsmanndorf",
+            "subtitle": "Mieß kalt hier"
+        },
+        {
+            "headerImage": "/resources/pictures/uspenski_cathedral.jpg",
+            "title": "Uspenski Kathedrale",
+            "subtitle": "Helsinki, Finland"
+        }
+    ],
+    "blogEntries": [
+        {
+            "title": "Unterwegs in Finnland",
+            "author": "Pascal",
+            "authorId": "A10B-ZU8F-K3BM-QZT3",
+            "uploaded": "22. Dezember 2022",
+            "headerPicUrl": "/resources/pictures/finland_thumbnail.jpg",
+            "summary": "Von Helsinki nach Rovaniemi, Finnland hat viel zu bieten. Ja ja whuup whuup",
+            "widgetLocation": "col-sm-6 mb-3 mb-sm-0",
+            "detailsPage": "/pages/blog/finland.html",
+            "mapPins": "",
+            "paragraphs": [
+                {
+                    "picture": "",
+                    "header": "Metropolregion Helsinki-Vantaa-Espoo",
+                    "text": "Lpoajwdopajdpoawjdpoajwd"
+                },
+                {
+                    "picture": "",
+                    "header": "Nachtzug nach Rovaniemi",
+                    "text": "VR is coooooooool"
+                },
+                {
+                    "picture": "",
+                    "header": "Die Stadt am Polarkreis - Rovaniemi",
+                    "text": "Nett hier"
+                }
+            ]
+        },
+        {
+            "title": "Nordkapp Reise",
+            "author": "Florence",
+            "authorId": "B02E-ZU8F-K3BM-QZT3",
+            "uploaded": "05. November 2023",
+            "headerPicUrl": "/resources/pictures/norway_header.jpg",
+            "summary": "Von Oslo ganz hoch in den Norden Norwegens",
+            "widgetLocation": "col-sm-6",
+            "detailsPage": "/pages/blog/norway.html",
+            "mapPins": "",
+            "paragraphs": [
+                {
+                    "picture": "",
+                    "header": "Metropolregion Helsinki-Vantaa-Espoo",
+                    "text": "Lpoajwdopajdpoawjdpoajwd"
+                },
+                {
+                    "picture": "",
+                    "header": "Nachtzug nach Rovaniemi",
+                    "text": "VR is coooooooool"
+                },
+                {
+                    "picture": "",
+                    "header": "Die Stadt am Polarkreis - Rovaniemi",
+                    "text": "Nett hier"
+                }
+            ]
+        }
+    ]
+}
