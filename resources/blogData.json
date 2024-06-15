@@ -14,7 +14,25 @@
             "headerImage": "/resources/pictures/IMG_6488.webp",
             "title": "Weihnachtsmanndorf",
             "subtitle": "Rovaniemi, Finland"
+        },
+
+        
+        {
+            "headerImage": "/resources/pictures/IMG_Ntrondheim.webp",
+            "title": "Trondheim",
+            "subtitle": "Trondheim, Norwegen"
+        },
+        {
+            "headerImage": "/resources/pictures/IMG_Nnordkapp.webp",
+            "title": "Globus",
+            "subtitle": "Nordkapp, Norwegen"
+        },
+        {
+            "headerImage": "/resources/pictures/IMG_Nvogelinsel.webp",
+            "title": "Vogelinsel",
+            "subtitle": "Runde, Norwegen"
         }
+        
     ],
     "blogEntries": [
         {
