@@ -69,27 +69,27 @@
             "author": "Florence",
             "blogId": "B02E-ZU8F-K3BM-QZT3",
             "uploaded": "05. November 2023",
-            "headerPicUrl": "/resources/pictures/IMG_6488.webp",
+            "headerPicUrl": "/resources/pictures/IMG_Nnordkapp.webp",
             "headerPicAlt": "Halloooooooooo",
-            "summary": "Von Oslo ganz hoch in den Norden Norwegens",
+            "summary": "Von Trondheim zum Nordkapp",
             "widgetLocation": "col-sm-6",
             "detailsPage": "/pages/blog/norway.html",
             "mapPins": "",
             "paragraphs": [
                 {
-                    "picture": "",
-                    "header": "Metropolregion Helsinki-Vantaa-Espoo",
-                    "text": "Lpoajwdopajdpoawjdpoajwd"
+                    "picture": "/resources/pictures/IMG_Nlofoten.webp",
+                    "header": "Lofoten - Norwegen",
+                    "text": "Einfach die Lofoten"
                 },
                 {
-                    "picture": "",
-                    "header": "Nachtzug nach Rovaniemi",
-                    "text": "VR is coooooooool"
+                    "picture": "/resources/pictures/IMG_Ninselhopping.webp",
+                    "header": "Insel Brücken - Norwegen",
+                    "text": "Das Normalste vom Normalen in Norwegen"
                 },
                 {
-                    "picture": "",
-                    "header": "Die Stadt am Polarkreis - Rovaniemi",
-                    "text": "Nett hier"
+                    "picture": "/resources/pictures/IMG_N6756.webp",
+                    "header": "Polarlichter - Besondere Nacht in Norwegen",
+                    "text": "Looking good"
                 }
             ]
         }
