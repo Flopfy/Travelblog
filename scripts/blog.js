@@ -50,11 +50,12 @@ function createBlogPage(id) {
         // Editor
         const editor = document.createElement('div');
         editor.innerHTML = `
-          <h4>About the Author of this Post</h4>
+          <h4>Der Author</h4>
           <img src="${post['authorPicture']}" alt="${post['authorPicAlt']}">
           <div class="text">
             <h5>${post['author']}</h5>
             <p>${post['authorProfession']}</p>
+            <P>Hochgeladen am: ${post['uploaded']}</p>
           </div>`
         editorDiv.appendChild(editor);
       }
