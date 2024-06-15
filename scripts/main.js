@@ -60,7 +60,7 @@ function fetchCarouselEntries() {
           constructetActive = true;
         }
         blogEntry.innerHTML = `
-          <img src="${post['headerImage']}" class="d-block w-100" alt="...">
+          <img src="${post['headerImage']}" class="" alt="...">
 				  <div class="carousel-caption d-none d-md-block">
 					  <h5>${post['title']}</h5>
 					  <p>${post['subtitle']}</p>

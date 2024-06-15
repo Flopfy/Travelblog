@@ -1,14 +1,19 @@
 {
     "carouselEntries": [
         {
-            "headerImage": "/resources/pictures/weihnachtsmann_dorf.webp",
-            "title": "Weihnachtsmanndorf",
-            "subtitle": "Mieß kalt hier"
-        },
-        {
-            "headerImage": "/resources/pictures/uspenski_cathedral.jpg",
+            "headerImage": "/resources/pictures/IMG_6430.webp",
             "title": "Uspenski Kathedrale",
             "subtitle": "Helsinki, Finland"
+        },
+        {
+            "headerImage": "/resources/pictures/IMG_6432.webp",
+            "title": "Järnvägsstationen",
+            "subtitle": "Helsinki, Finland"
+        },
+        {
+            "headerImage": "/resources/pictures/IMG_6488.webp",
+            "title": "Weihnachtsmanndorf",
+            "subtitle": "Rovaniemi, Finland"
         }
     ],
     "blogEntries": [
@@ -17,7 +22,7 @@
             "author": "Pascal",
             "authorId": "A10B-ZU8F-K3BM-QZT3",
             "uploaded": "22. Dezember 2022",
-            "headerPicUrl": "/resources/pictures/finland_thumbnail.jpg",
+            "headerPicUrl": "/resources/pictures/IMG_6489.webp",
             "summary": "Von Helsinki nach Rovaniemi, Finnland hat viel zu bieten. Ja ja whuup whuup",
             "widgetLocation": "col-sm-6 mb-3 mb-sm-0",
             "detailsPage": "/pages/blog/finland.html",
