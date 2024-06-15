@@ -3,7 +3,8 @@ function createBlogPage(id) {
   const headerImgDiv = document.getElementById('blogHeaderImg');
   const headerDiv = document.getElementById('header');
   const mapDiv = document.getElementById('map');
-  const paragraphDiv = document.getElementById('paragraphs')
+  const paragraphDiv = document.getElementById('paragraphs');
+  const editorDiv = document.getElementById('editor');
 
   fetch("/resources/blogData.json")
   .then(response => response.json())
@@ -45,6 +46,17 @@ function createBlogPage(id) {
           paragraph.appendChild(div)
         }
         paragraphDiv.appendChild(paragraph)
+
+        // Editor
+        const editor = document.createElement('div');
+        editor.innerHTML = `
+          <h4>About the Author of this Post</h4>
+          <img src="${post['authorPicture']}" alt="${post['authorPicAlt']}">
+          <div class="text">
+            <h5>${post['author']}</h5>
+            <p>${post['authorProfession']}</p>
+          </div>`
+        editorDiv.appendChild(editor);
       }
     }
   })

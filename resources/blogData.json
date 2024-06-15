@@ -6,21 +6,14 @@
             "subtitle": "Helsinki, Finland"
         },
         {
-            "headerImage": "/resources/pictures/IMG_6432.webp",
-            "title": "Järnvägsstationen",
-            "subtitle": "Helsinki, Finland"
+            "headerImage": "/resources/pictures/IMG_Ntrondheim.webp",
+            "title": "Trondheim",
+            "subtitle": "Trondheim, Norwegen"
         },
         {
             "headerImage": "/resources/pictures/IMG_6488.webp",
             "title": "Weihnachtsmanndorf",
             "subtitle": "Rovaniemi, Finland"
-        },
-
-        
-        {
-            "headerImage": "/resources/pictures/IMG_Ntrondheim.webp",
-            "title": "Trondheim",
-            "subtitle": "Trondheim, Norwegen"
         },
         {
             "headerImage": "/resources/pictures/IMG_Nnordkapp.webp",
@@ -38,36 +31,38 @@
         {
             "title": "Unterwegs in Finnland",
             "author": "Pascal",
+            "authorProfession": "Student at DHBW Mosbach",
+            "authorPicture": "",
+            "authorPicAlt": "Nutria",
             "blogId": "A10B-ZU8F-K3BM-QZT3",
             "uploaded": "22. Dezember 2022",
             "headerPicUrl": "/resources/pictures/IMG_6489.webp",
-            "headerPicAlt": "Bild",
-            "summary": "Von Helsinki nach Rovaniemi, Finnland hat viel zu bieten. Ja ja whuup whuup",
+            "headerPicAlt": "Typische Temperatur in Finnland im Winter",
+            "summary": "Tauchen Sie ein in die atemberaubende Schönheit Finnlands, ein Land der tausend Seen und endlosen Wälder, wo die Magie der Mitternachtssonne und das faszinierende Nordlicht auf Sie warten. Entdecken Sie die reiche Kultur, die lebendigen Städte und die herzliche Gastfreundschaft dieses einzigartigen nordischen Reiseziels.",
             "widgetLocation": "col-sm-6 mb-3 mb-sm-0",
             "detailsPage": "/pages/blog/finland.html",
             "mapPins": "https://www.google.com/maps/d/embed?mid=1ds7ho3HHWjzdEbYuRU2alD2qfebP_eA&ehbc=2E312F",
             "paragraphs": [
                 {
-                    "picture": "",
-                    "alt": "",
-                    "header": "Metropolregion Helsinki-Vantaa-Espoo",
-                    "text": "Lpoajwdopajdpoawjdpoajwd"
+                    "picture": "/resources/pictures/IMG_6426.webp",
+                    "alt": "Uspenski Kathedrale",
+                    "header": "Helsinki - Die Hauptstadt Finnlands",
+                    "text": "Helsinki, die lebendige Hauptstadt Finnlands, ist eine Stadt, die Moderne und Tradition auf beeindruckende Weise miteinander vereint. Gelegen am Ufer des Finnischen Meerbusens, bietet Helsinki eine faszinierende Mischung aus Architektur, Kultur und Natur. Die Stadt ist bekannt für ihre Jugendstilgebäude, die sich harmonisch neben modernen Glasfassaden erheben und ein einzigartiges Stadtbild schaffen. Ein Highlight jeder Helsinki-Reise ist der Besuch des Senatsplatzes, wo die majestätische Kathedrale von Helsinki thront, ein Meisterwerk des Neoklassizismus. Ganz in der Nähe befindet sich die berühmte Felsenkirche, eine architektonische Perle, die in massiven Granitfelsen gehauen wurde und mit ihrer außergewöhnlichen Akustik beeindruckt."
                 },
                 {
-                    "picture": "",
-                    "header": "Nachtzug nach Rovaniemi",
-                    "text": "VR is coooooooool"
-                },
-                {
-                    "picture": "",
+                    "picture": "/resources/pictures/IMG_6488.webp",
+                    "alt": "Weihnachtsmanndorf in Rovaniemi",
                     "header": "Die Stadt am Polarkreis - Rovaniemi",
-                    "text": "Nett hier"
+                    "text": "Rovaniemi, die Hauptstadt Lapplands, ist bekannt als das offizielle Zuhause des Weihnachtsmannes und ein Tor zu den arktischen Abenteuern. Gelegen am Polarkreis, bietet die Stadt eine faszinierende Mischung aus Naturwundern und kulturellen Erlebnissen. Im Winter verwandelt sich Rovaniemi in ein Winterwunderland, wo Besucher das magische Nordlicht bestaunen, Hundeschlittenfahrten unternehmen und die authentische samische Kultur kennenlernen können. Im Sommer lockt die Mitternachtssonne mit endlosen Tagen, ideal zum Wandern und Erkunden der unberührten Wildnis. Das Arktikum-Museum und das Santa Claus Village sind dabei Highlights, die man nicht verpassen sollte. Rovaniemi ist ein Reiseziel voller Magie und Abenteuer, das das ganze Jahr über unvergessliche Erlebnisse bietet."
                 }
             ]
         },
         {
             "title": "Nordkapp Reise",
             "author": "Florence",
+            "authorProfession": "Student",
+            "authorPicture": "",
+            "authorPicAlt": "",
             "blogId": "B02E-ZU8F-K3BM-QZT3",
             "uploaded": "05. November 2023",
             "headerPicUrl": "/resources/pictures/IMG_Nnordkapp.webp",
