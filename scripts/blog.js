@@ -1,6 +1,7 @@
-function createBlogPage() {
-  const blogId = "B02E-ZU8F-K3BM-QZT3"
+function createBlogPage(id) {
+  const blogId = id
   const headerImgDiv = document.getElementById('blogHeaderImg');
+  const mapDiv = document.getElementById('map')
 
   fetch("/resources/blogData.json")
   .then(response => response.json())
@@ -14,6 +15,13 @@ function createBlogPage() {
         headerImg.src = post['headerPicUrl']
         headerImg.alt = post['headerPicAlt']
         headerImgDiv.appendChild(headerImg);
+
+        const mapFrame = document.createElement('iframe');
+        mapFrame.className = "googleMap";
+        mapFrame.src = post['mapPins']
+        mapFrame.width = 640;
+        mapFrame.height = 400;
+        mapDiv.appendChild(mapFrame);
 
         for (let paragraph of post.paragraphs) {
           console.log(paragraph['header'])
