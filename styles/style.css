@@ -24,3 +24,28 @@ body {
 #blogEntries {
   width: 100%;
 }
+
+#blogHeaderImg img {
+  height: 60vh;
+  width: 100%;
+  object-fit: cover;
+}
+
+.blogData {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+
+.blogData iframe {
+  width: 50vw;
+}
+
+.blogData img {
+  height: 40vh;
+  width: 100%;
+  object-fit: cover;
+}

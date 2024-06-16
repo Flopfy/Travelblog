@@ -31,7 +31,6 @@ function createBlogPage(id) {
         const mapFrame = document.createElement('iframe');
         mapFrame.className = "googleMap";
         mapFrame.src = post['mapPins']
-        mapFrame.width = 640;
         mapFrame.height = 400;
         mapDiv.appendChild(mapFrame);
 
