@@ -31,7 +31,7 @@
         {
             "title": "Finnland Reise",
             "author": "Pascal Jedi",
-            "authorProfession": "Student at DHBW Mosbach",
+            "authorProfession": "Student an der DHBW Mosbach",
             "authorPicture": "",
             "authorPicAlt": "Nutria",
             "blogId": "A10B-ZU8F-K3BM-QZT3",
@@ -60,7 +60,7 @@
         {
             "title": "Nordkapp Reise",
             "author": "Florence",
-            "authorProfession": "Student",
+            "authorProfession": "Student an der DHBW Mosbach",
             "authorPicture": "",
             "authorPicAlt": "",
             "blogId": "B02E-ZU8F-K3BM-QZT3",
@@ -70,22 +70,22 @@
             "summary": "Von Trondheim zum Nordkapp",
             "widgetLocation": "col-sm-6",
             "detailsPage": "/pages/blog/norway.html",
-            "mapPins": "",
+            "mapPins": "https://www.google.com/maps/d/embed?mid=1KYel79oO3z5gzLPDz8eKf-2MAz4ztjw&hl=de&ehbc=2E312F",
             "paragraphs": [
                 {
                     "picture": "/resources/pictures/IMG_Nlofoten.webp",
                     "header": "Lofoten - Norwegen",
-                    "text": "Einfach die Lofoten"
+                    "text": "Die Lofoten sind eine beeindruckende Inselgruppe im Norden Norwegens, bekannt für ihre dramatischen Berge, tiefen Fjorde und malerischen Fischerdörfer. Dank des Golfstroms herrscht ein mildes Klima, das Outdoor-Aktivitäten wie Wandern, Klettern und Surfen ermöglicht. Berühmt sind die Lofoten für ihre Nordlichter im Winter und die Mitternachtssonne im Sommer. Die traditionelle Fischerei, insbesondere der Dorschfang, spielt eine wichtige Rolle, und kulturelle Highlights wie das Wikingermuseum in Borg bieten Einblicke in die reiche Geschichte der Region."
                 },
                 {
                     "picture": "/resources/pictures/IMG_Ninselhopping.webp",
                     "header": "Insel Brücken - Norwegen",
-                    "text": "Das Normalste vom Normalen in Norwegen"
+                    "text": "Norwegen ist berühmt für seine beeindruckenden Brücken, die über Fjorde und Wasserstraßen führen und die vielfältige Landschaft des Landes miteinander verbinden. Diese Bauwerke sind nicht nur technische Meisterleistungen, sondern auch ästhetische Highlights, die sich harmonisch in die Natur einfügen."
                 },
                 {
                     "picture": "/resources/pictures/IMG_N6756.webp",
                     "header": "Polarlichter - Besondere Nacht in Norwegen",
-                    "text": "Looking good"
+                    "text": "Die Polarlichter, auch als Nordlichter bekannt, sind ein faszinierendes Naturphänomen, das den Himmel über Norwegen in leuchtenden Farben erstrahlen lässt. Besonders im Winter sind sie in Nordnorwegen häufig zu sehen und ziehen viele Besucher an. Orte wie Tromsø und die Lofoten bieten ideale Bedingungen für die Beobachtung. Die tanzenden Lichter sind ein unvergessliches Erlebnis und ein Highlight jeder Reise nach Norwegen."
                 }
             ]
         }
