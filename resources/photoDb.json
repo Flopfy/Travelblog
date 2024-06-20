@@ -24,6 +24,10 @@
         "photoAlt": "Blick aus dem Flugzeug über Frankfurt"
     },
     {
+        "photoUrl": "/resources/pictures/lappland.jpg",
+        "photoAlt": "Lappland"
+    },
+    {
         "photoUrl": "/resources/pictures/IMG_N6756.webp",
         "photoAlt": "Aurora in Norwegen"
     },

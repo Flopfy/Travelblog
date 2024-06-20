@@ -64,14 +64,16 @@ body {
 
 .blogData iframe {
   width: 60vw;
-  padding-bottom: 15px;
+  margin-bottom: 15px;
+  border-radius: 10px;
 }
 
 .blogData img {
   height: 60vh;
   width: 100%;
   object-fit: cover;
-  padding-bottom: 15px;
+  margin-bottom: 15px;
+  border-radius: 10px;
 }
 
 .blogData hr {
