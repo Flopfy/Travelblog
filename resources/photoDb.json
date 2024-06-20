@@ -32,6 +32,22 @@
         "photoAlt": "Brücke in Norwegen"
     },
     {
+        "photoUrl": "/resources/pictures/lulea.jpeg",
+        "photoAlt": "Lulea"
+    },
+    {
+        "photoUrl": "/resources/pictures/gammelstad_lulea.jpg",
+        "photoAlt": "Lulea Gammelstad"
+    },
+    {
+        "photoUrl": "/resources/pictures/boden.jpg",
+        "photoAlt": "Boden"
+    },
+    {
+        "photoUrl": "/resources/pictures/muddus_nationalpark.jpg",
+        "photoAlt": "Muddus Nationalpark"
+    },
+    {
         "photoUrl": "/resources/pictures/IMG_Nlofoten.webp",
         "photoAlt": "Die Lofoten"
     },
