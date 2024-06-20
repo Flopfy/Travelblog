@@ -30,7 +30,7 @@ function createBlogPage(id) {
         // Map
         const mapFrame = document.createElement('iframe');
         mapFrame.className = "googleMap";
-        mapFrame.src = post['mapPins']
+        mapFrame.src = post['mapPins'];
         mapFrame.height = 500;
         mapDiv.appendChild(mapFrame);
 

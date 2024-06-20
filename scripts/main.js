@@ -18,7 +18,7 @@ function fetchBlogJson() {
               <div class="card-body">
                 <h5 class="card-title">${post['title']}</h5>
                 <p class="card-text">${post['shortSummary']}</p>
-                <a href="${post['detailsPage']}" class="btn btn-primary">Read more</a>
+                <a href="${post['detailsPage']}" class="btn btn-primary">Artikel lesen...</a>
               </div>
           </div>`;
         postDiv.appendChild(blogEntry);

@@ -54,7 +54,7 @@ body {
 }
 
 .blogData {
-  width: 60%;
+  width: 60vw;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -90,6 +90,7 @@ body {
   height: 150px;
   object-fit: cover;
   border-radius: 50%; 
+  padding-bottom: 0 !important;
 }
 
 .editorTextFields {
@@ -97,4 +98,14 @@ body {
   flex-direction: column;
   padding-left: 10px;
   width: calc(40vw - 160px)
+}
+
+@media screen and (max-width: 992px) {
+  .blogData {
+    width: 90vw;
+  }
+  
+  .blogData iframe {
+    width: 90vw;
+  }
 }
