@@ -6,9 +6,9 @@
             "subtitle": "Helsinki, Finland"
         },
         {
-            "headerImage": "/resources/pictures/IMG_Ntrondheim.webp",
-            "title": "Trondheim",
-            "subtitle": "Trondheim, Norwegen"
+            "headerImage": "/resources/pictures/stogholm.jpg",
+            "title": "Stockholm",
+            "subtitle": "Stockholm im Winter, Schweden"
         },
         {
             "headerImage": "/resources/pictures/IMG_6488.webp",
@@ -21,9 +21,9 @@
             "subtitle": "Nordkapp, Norwegen"
         },
         {
-            "headerImage": "/resources/pictures/IMG_Nvogelinsel.webp",
-            "title": "Vogelinsel",
-            "subtitle": "Runde, Norwegen"
+            "headerImage": "/resources/pictures/stockholm.webp",
+            "title": "Stockholm",
+            "subtitle": "Stockholm, Schweden"
         }
         
     ],
