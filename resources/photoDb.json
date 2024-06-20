@@ -48,6 +48,10 @@
         "photoAlt": "Lulea Gammelstad"
     },
     {
+        "photoUrl": "/resources/pictures/lulea_2.jpg",
+        "photoAlt": "Lulea"
+    },
+    {
         "photoUrl": "/resources/pictures/boden.jpg",
         "photoAlt": "Boden"
     },

@@ -1,18 +1,13 @@
 {
     "carouselEntries": [
         {
-            "headerImage": "/resources/pictures/IMG_6432.webp",
-            "title": "Helsingin päärautatieasema",
-            "subtitle": "Helsinki, Finland"
+            "headerImage": "/resources/pictures/lulea_2.jpg",
+            "title": "Stadtzentrum",
+            "subtitle": "Luleå, Schweden"
         },
         {
-            "headerImage": "/resources/pictures/stogholm.jpg",
-            "title": "Stockholm",
-            "subtitle": "Stockholm im Winter, Schweden"
-        },
-        {
-            "headerImage": "/resources/pictures/IMG_6488.webp",
-            "title": "Joulupukin pajakylä",
+            "headerImage": "/resources/pictures/lappland_aurora.jpg",
+            "title": "Nordlicht",
             "subtitle": "Rovaniemi, Finland"
         },
         {
