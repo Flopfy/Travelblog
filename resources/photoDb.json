@@ -68,7 +68,19 @@
         "photoAlt": "Trondheim"
     },
     {
+        "photoUrl": "/resources/pictures/trondheim.jpg",
+        "photoAlt": "Trondheim"
+    },
+    {
         "photoUrl": "/resources/pictures/IMG_Nvogelinsel.webp",
         "photoAlt": "Die Vogelinsel in Norwegen"
+    },
+    {
+        "photoUrl": "/resources/pictures/stockholm.webp",
+        "photoAlt": "Stockholm"
+    },
+    {
+        "photoUrl": "/resources/pictures/stogholm.jpg",
+        "photoAlt": "Stockholm"
     }
 ]

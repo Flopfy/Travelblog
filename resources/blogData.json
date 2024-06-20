@@ -6,9 +6,9 @@
             "subtitle": "Helsinki, Finland"
         },
         {
-            "headerImage": "/resources/pictures/IMG_Ntrondheim.webp",
-            "title": "Trondheim",
-            "subtitle": "Trondheim, Norwegen"
+            "headerImage": "/resources/pictures/stogholm.jpg",
+            "title": "Stockholm",
+            "subtitle": "Stockholm im Winter, Schweden"
         },
         {
             "headerImage": "/resources/pictures/IMG_6488.webp",
@@ -21,9 +21,9 @@
             "subtitle": "Nordkapp, Norwegen"
         },
         {
-            "headerImage": "/resources/pictures/IMG_Nvogelinsel.webp",
-            "title": "Vogelinsel",
-            "subtitle": "Runde, Norwegen"
+            "headerImage": "/resources/pictures/stockholm.webp",
+            "title": "Stockholm",
+            "subtitle": "Stockholm, Schweden"
         }
         
     ],
@@ -130,6 +130,11 @@
                     "picture": "/resources/pictures/IMG_N6756.webp",
                     "header": "Polarlichter - Besondere Nacht in Norwegen",
                     "text": "Die Polarlichter, auch als Nordlichter bekannt, sind ein faszinierendes Naturphänomen, das den Himmel über Norwegen in leuchtenden Farben erstrahlen lässt. Besonders im Winter sind sie in Nordnorwegen häufig zu sehen und ziehen viele Besucher an. Orte wie Tromsø und die Lofoten bieten ideale Bedingungen für die Beobachtung. Die tanzenden Lichter sind ein unvergessliches Erlebnis und ein Highlight jeder Reise nach Norwegen."
+                },
+                {
+                    "picture": "/resources/pictures/trondheim.jpg",
+                    "header": "Trondheim - Historische Stadt",
+                    "text": "Trondheim, eine historische Stadt in Norwegen, ist bekannt für ihren beeindruckenden Nidarosdom, die nördlichste gotische Kathedrale der Welt. Die Stadt, gegründet im Jahr 997, war einst Norwegens Hauptstadt und ist heute ein wichtiges kulturelles und wissenschaftliches Zentrum. Malerische Holzhäuser, lebhafte Märkte und das lebendige Hafenviertel prägen das Stadtbild. Trondheim ist auch Heimat der renommierten Technisch-Naturwissenschaftlichen Universität Norwegens (NTNU), die zu einem jungen und dynamischen Flair beiträgt. Die Stadt bietet eine reizvolle Mischung aus Geschichte, Kultur und Innovation."
                 }
             ]
         }
