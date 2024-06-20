@@ -36,6 +36,10 @@
         "photoAlt": "Lulea"
     },
     {
+        "photoUrl": "/resources/pictures/aurora_lulea.jpg",
+        "photoAlt": "Lulea Aurora"
+    },
+    {
         "photoUrl": "/resources/pictures/gammelstad_lulea.jpg",
         "photoAlt": "Lulea Gammelstad"
     },

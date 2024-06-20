@@ -61,12 +61,18 @@
                     "alt": "Wasserfall im Nationalpark Muddus",
                     "header": "Der Nationalpark Muddus",
                     "text": "Der Muddus-Nationalpark in Schweden, ein wahres Paradies für Naturliebhaber, fasziniert mit seiner unberührten Wildnis und beeindruckenden Artenvielfalt. Mit seinen uralten Wäldern, tiefen Schluchten und malerischen Mooren bietet der Park eine Oase der Ruhe und ein einzigartiges Naturerlebnis. Wanderwege führen durch die atemberaubende Landschaft, vorbei an spektakulären Wasserfällen und stillen Seen. Besonders reizvoll ist der Muddus-Wasserfall, der mit seiner kraftvollen Schönheit Besucher in seinen Bann zieht. Der Nationalpark ist auch ein Refugium für zahlreiche Tierarten, darunter Elche, Bären und Luchse, sowie eine reiche Vogelwelt. Ob bei einer ausgedehnten Wanderung, einem gemütlichen Picknick oder einer Nacht im Zelt unter dem klaren Sternenhimmel – der Muddus-Nationalpark bietet ein unvergleichliches Naturabenteuer und Momente der echten Abgeschiedenheit."
+                },
+                {
+                    "picture": "/resources/pictures/aurora_lulea.jpg",
+                    "alt": "The Aurora in Lulea",
+                    "header": "Die Nordlichter erleben",
+                    "text": "Die Nordlichter in Norrbotten, einer faszinierenden Region im Norden Schwedens, sind ein spektakuläres Naturschauspiel, das Besucher aus aller Welt anzieht. In den klaren, kalten Winternächten erhellen die Aurora Borealis den Himmel mit ihren lebhaften Grüntönen und manchmal sogar mit roten und violetten Schimmern. Norrbotten bietet einige der besten Bedingungen weltweit, um dieses Phänomen zu beobachten, dank seiner geringen Lichtverschmutzung und weiten, offenen Landschaften. Besonders beliebte Orte sind Abisko, bekannt für seine Aurora Sky Station, und die umliegenden Wildnisgebiete. Hier kann man das Schauspiel vom Ufer eines gefrorenen Sees, aus einem traditionellen Sami-Zelt oder bei einer Schneemobiltour durch die stille Winterlandschaft genießen. Die Kombination aus unberührter Natur und der Magie der Nordlichter macht Norrbotten zu einem unvergleichlichen Reiseziel für alle, die das Nordlicht in seiner ganzen Pracht erleben möchten."
                 }
             ]
         },
         {
-            "title": "Finnland Reise",
-            "author": "Pascal Jedi",
+            "title": "Reise durch Finnland",
+            "author": "Pascal",
             "authorProfession": "Student an der DHBW Mosbach",
             "authorPicture": "/resources/pictures/Pasca.jpg",
             "authorPicAlt": "Pasca",

@@ -8,6 +8,7 @@
 
 .photo-item {
     position: relative;
+    height: 400px;
 }
 
 .photo-item img {
