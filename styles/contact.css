@@ -1,0 +1,28 @@
+#form-container {
+    height: calc(100vh - 112px);
+    display: grid;
+    align-content: center;
+    vertical-align: middle;
+}
+
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.flex-container>div {
+    margin: 10px;
+    flex: 1 1 calc(50% - 20px);
+}
+
+.comment-field {
+    padding: 10px;
+}
+
+.button-field {
+    padding: 10px;
+}
+
+.form-control {
+    width: 100%;
+}

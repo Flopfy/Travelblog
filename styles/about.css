@@ -1,0 +1,16 @@
+#text-container {
+    height: calc(100vh - 112px);
+    width: 500px;
+    display: grid;
+    align-content: center;
+    vertical-align: middle;
+}
+
+.big-image {
+    width: 500px;
+    height: auto;
+}
+
+.rounded-custom {
+    border-radius: 2cap;
+}
