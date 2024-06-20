@@ -31,7 +31,7 @@ function createBlogPage(id) {
         const mapFrame = document.createElement('iframe');
         mapFrame.className = "googleMap";
         mapFrame.src = post['mapPins']
-        mapFrame.height = 400;
+        mapFrame.height = 500;
         mapDiv.appendChild(mapFrame);
 
         // Paragraphs
@@ -41,21 +41,23 @@ function createBlogPage(id) {
           div.innerHTML = `
             <h2>${pData['header']}</h2>
             <p>${pData['text']}</p>
-            <img src="${pData['picture']}" alt="${pData['alt']}">`
-          paragraph.appendChild(div)
+            <img src="${pData['picture']}" alt="${pData['alt']}">`;
+          paragraph.appendChild(div);
         }
-        paragraphDiv.appendChild(paragraph)
+        paragraphDiv.appendChild(paragraph);
 
         // Editor
         const editor = document.createElement('div');
         editor.innerHTML = `
-          <h4>Der Author</h4>
-          <img src="${post['authorPicture']}" alt="${post['authorPicAlt']}">
-          <div class="text">
-            <h5>${post['author']}</h5>
-            <p>${post['authorProfession']}</p>
-            <P>Hochgeladen am: ${post['uploaded']}</p>
-          </div>`
+		      <h4>Der Author</h4>
+          <div class="editorCard">
+            <img src="${post['authorPicture']}" alt="${post['authorPicAlt']}">
+            <div class="editorTextFields">
+              <h5>${post['author']}</h5>
+              <p>${post['authorProfession']}</p>
+              <P>Hochgeladen am: ${post['uploaded']}</p>
+            </div>
+          </div>`;
         editorDiv.appendChild(editor);
       }
     }

@@ -17,7 +17,7 @@ function fetchBlogJson() {
               <img src="${post['headerPicUrl']}" class="card-img-top" alt="...">
               <div class="card-body">
                 <h5 class="card-title">${post['title']}</h5>
-                <p class="card-text">${post['summary']}</p>
+                <p class="card-text">${post['shortSummary']}</p>
                 <a href="${post['detailsPage']}" class="btn btn-primary">Read more</a>
               </div>
           </div>`;
