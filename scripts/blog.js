@@ -49,7 +49,6 @@ function createBlogPage(id) {
         // Editor
         const editor = document.createElement('div');
         editor.innerHTML = `
-		      <h4>Der Author</h4>
           <div class="editorCard">
             <img src="${post['authorPicture']}" alt="${post['authorPicAlt']}">
             <div class="editorTextFields">

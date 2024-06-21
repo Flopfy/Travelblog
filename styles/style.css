@@ -23,7 +23,7 @@ body {
 }
 
 .carousel-inner img {
-  height: 95vh;
+  height: calc(100vh - 56px);
   width: 100%;
   object-fit: cover;
 }
@@ -84,7 +84,7 @@ body {
   width: 100%;
   display: flex;
   align-items: center;
-  padding-bottom: 15px;
+  padding-bottom: 5px;
 }
 
 .editorCard img {
@@ -99,7 +99,7 @@ body {
   display: flex;
   flex-direction: column;
   padding-left: 10px;
-  width: calc(40vw - 160px)
+  width: calc(100% - 150px);
 }
 
 @media screen and (max-width: 992px) {
